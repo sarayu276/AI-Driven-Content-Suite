@@ -1,5 +1,6 @@
 # AI-Driven-Content-Suite
 # python script 
+
 def generate_marketing_blog(topic):
     return f"Marketing Blog: Learn how {topic} helps businesses improve productivity and customer engagement."
 
