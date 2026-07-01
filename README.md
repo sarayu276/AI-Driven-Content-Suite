@@ -29,7 +29,7 @@ Develop an AI-powered content generation solution that automatically creates mar
 
 ## Python Script
 
-
+```python
 def generate_marketing_blog(topic):
     return f"Marketing Blog: Learn how {topic} helps businesses improve productivity and customer engagement."
 
@@ -45,6 +45,7 @@ product = "AI Content Generator"
 print(generate_marketing_blog(topic))
 print(generate_seo_description(product))
 print(generate_social_media_post(product))
+```
 
 ---
 
@@ -76,3 +77,5 @@ Output:
 ## Conclusion
 
 This AI-Driven Content Suite demonstrates how AI can automatically generate marketing blogs, SEO-friendly descriptions, and social media posts. It improves productivity, saves time, and helps businesses create high-quality content efficiently.
+
+
